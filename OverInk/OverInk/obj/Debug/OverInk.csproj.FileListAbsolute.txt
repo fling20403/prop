@@ -1,0 +1,9 @@
+E:\OverInk\OverInk\bin\Debug\OverInk.dll
+E:\OverInk\OverInk\bin\Debug\OverInk.pdb
+E:\OverInk\OverInk\obj\Debug\OverInk.dll
+E:\OverInk\OverInk\obj\Debug\OverInk.pdb
+E:\OverInk\OverInk\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\OverInk\OverInk\bin\Debug\WaferZoneEditorLib.dll
+E:\OverInk\OverInk\bin\Debug\XDM.WaferMap.dll
+E:\OverInk\OverInk\bin\Debug\XDM.WaferMapCore.dll
+E:\OverInk\OverInk\obj\Debug\OverInk.csprojResolveAssemblyReference.cache
